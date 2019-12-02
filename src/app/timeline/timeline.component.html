@@ -1,0 +1,14 @@
+<div class="container">
+
+  <div id="timeline-content">
+    <h1>History of the Internet</h1>
+
+    <ul class="timeline" *ngFor="let year of data.timeline" [style.padding-bottom]="year.events.length > 0 ? '0px' : '40px'">
+      <li class="event" [attr.data-date]="year.time">
+        <app-year *ngFor="let event of year.events" [event]="event"></app-year>
+      </li>
+    </ul>
+  </div>
+
+</div>
+

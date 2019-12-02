@@ -1,0 +1,4 @@
+<div class="event" (click)="goToLink(event.url)">
+  <span [ngClass]="(event.tip != null) ? 'tooltip-bottom':''" [attr.data-tooltip]="event.tip">{{event.name}}</span>
+</div>
+

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "historyoftheinternet-9395f": {
+      "hosting": {
+        "history-of-internet": [
+          "historyoftheinternet-9395f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "historyoftheinternet-9395f"
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "timeline": [
+    {
+      "time": "1873",
+      "events": [
+        { "name": "QWERTY", "url": "https://en.wikipedia.org/wiki/QWERTY", "tip": "Still used by most of us to interact with the internet" }
+      ]
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "1933",
+      "events": [
+        { "name": "Telex", "url": "https://en.wikipedia.org/wiki/Teleprinter", "tip": "1st operational teleprinter" }
+      ]
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "",
+      "events": []
+    },
+    {
+      "time": "1957",
+      "events": [
+        { "name": "FORTRAN", "url": "https://en.wikipedia.org/wiki/Fortran", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1958",
+      "events": [
+        { "name": "Transatlantic Cable", "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable", "tip": "Undersea cable used for telegraph communications" }
+      ]
+    },
+    {
+      "time": "1959",
+      "events": [
+        { "name": "COBOL", "url": "https://en.wikipedia.org/wiki/Cobol", "tip": "Programming language" }
+      ]
+    },
+
+    {
+      "time": "1960",
+      "events": []
+    },
+    {
+      "time": "1961",
+      "events": []
+    },
+    {
+      "time": "1962",
+      "events": [
+        { "name": "Telstar 1", "url": "https://en.wikipedia.org/wiki/Satellite_Internet_access", "tip": "1st commercial communications satellite, built by Bell Labs" }
+      ]
+    },
+    {
+      "time": "1963",
+      "events": []
+    },
+    {
+      "time": "1964",
+      "events": [
+        { "name": "BASIC", "url": "https://en.wikipedia.org/wiki/BASIC", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1965",
+      "events": []
+    },
+    {
+      "time": "1966",
+      "events": []
+    },
+    {
+      "time": "1967",
+      "events": [
+        { "name": "Computerworld Magzine", "url": "https://www.computerworld.com", "tip": "Final issue 2014, now online"}
+      ]
+    },
+    {
+      "time": "1968",
+      "events": []
+    },
+    {
+      "time": "1969",
+      "events": [
+        { "name": "1st Moon Walk", "url": "https://en.wikipedia.org/wiki/Apollo_11" },
+        { "name": "ARPAnet", "url": "https://en.wikipedia.org/wiki/ARPANET", "tip": "First message sent over a network"}
+      ]
+    },
+
+    {
+      "time": "1970",
+      "events": [
+        { "name": "PASCAL", "url": "https://en.wikipedia.org/wiki/Pascal_(programming_language)", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1971",
+      "events": [
+        { "name": "1st Email", "url": "https://en.wikipedia.org/wiki/History_of_email", "tip": " Sent by Roy Tomlinson who also began using the @ symbol in email addresses" }
+      ]
+    },
+    {
+      "time": "1972",
+      "events": [
+        { "name": "C", "url": "https://en.wikipedia.org/wiki/C_(programming_language)", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1973",
+      "events": []
+    },
+    {
+      "time": "1974",
+      "events": [
+        { "name": "TCP/IP Protocol", "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite", "tip": "Packet-switching technology that makes the entire Internet possible" },
+        { "name": "Telenet", "url": "https://en.wikipedia.org/wiki/Telenet", "tip": "First public internet service provider" },
+        { "name": "SQL", "url": "https://en.wikipedia.org/wiki/SQL", "tip": "Structured query language first appeared" }
+      ]
+    },
+    {
+      "time": "1975",
+      "events": [
+        { "name": "Microsoft", "url": "https://en.wikipedia.org/wiki/Microsoft", "tip": "Founded by Bill Gates and Paul Allen" },
+        { "name": "Byte Magazine", "url": "https://en.wikipedia.org/wiki/Byte_(magazine)", "tip": "Final issue 1998" }
+      ]
+    },
+    {
+      "time": "1976",
+      "events": [
+        { "name": "Apple I", "url": "https://en.wikipedia.org/wiki/Apple_I", "tip": "Desktop computer" }
+      ]
+    },
+    {
+      "time": "1977",
+      "events": [
+        { "name": "Apple II", "url": "https://en.wikipedia.org/wiki/Apple_II", "tip": "Desktop computer" },
+        { "name": "TRS-80 Model I", "url": "https://en.wikipedia.org/wiki/TRS-80", "tip": "Desktop computer" },
+        { "name": "Atari 2600", "url": "https://en.wikipedia.org/wiki/Atari_2600", "tip": "Home video game console ... Space Invaders, Pac-Man" }
+      ]
+    },
+    {
+      "time": "1978",
+      "events": [
+        { "name": "1st Spam Email", "url": "https://en.wikipedia.org/wiki/History_of_email_spam", "tip": "A marketer at Digital Equipment Corporation sent an advertisement to ARPAnet users via email" },
+        { "name": "Info World Magazine", "url": "https://www.infoworld.com", "tip": "Last issue 2014, now online" }
+      ]
+    },
+    {
+      "time": "1979",
+      "events": [
+        { "name": "Atari 800", "url": "https://en.wikipedia.org/wiki/Atari_8-bit_family", "tip": "8-bit home computer" },
+        { "name": "Compute! Magazine", "url": "https://en.wikipedia.org/wiki/Compute!", "tip": "Final issue 1994" }
+      ]
+    },
+
+    {
+      "time": "1980",
+      "events": []
+    },
+    {
+      "time": "1981",
+      "events": [
+        { "name": "IBM PC", "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer", "tip": "Desktop computer" }
+      ]
+    },
+    {
+      "time": "1982",
+      "events": [
+        { "name": "Commodore 64", "url": "https://en.wikipedia.org/wiki/Commodore_64", "tip": "8-bit home computer" },
+        { "name": "PC Magazine", "url": "http://www.pcmag.com/", "tip": "Final issue 2009, now online" }
+      ]
+    },
+    {
+      "time": "1983",
+      "events": [
+        { "name": "Video Game Crash", "url": "https://en.wikipedia.org/wiki/Video_game_crash_of_1983", "tip": "Large-scale recession in the video game industry" }
+      ]
+    },
+    {
+      "time": "1984",
+      "events": [
+        { "name": "Top Level Domains", "url": "https://en.wikipedia.org/wiki/.com", "tip": ".com .net .org .edu .gov" },
+        { "name": "Macworld Magazine", "url": "https://www.macworld.com/", "tip": "Final print issue 2014, now online" }
+      ]
+    },
+    {
+      "time": "1985",
+      "events": [
+        { "name": "Micorsoft Windows", "url": "https://en.wikipedia.org/wiki/Microsoft_Windows", "tip": "Operating system" }
+      ]
+    },
+    {
+      "time": "1986",
+      "events": [
+        { "name": "IBM PC Convertible", "url": "https://en.wikipedia.org/wiki/IBM_PC_Convertible", "tip": "One of the 1st laptop computers" }
+      ]
+    },
+    {
+      "time": "1987",
+      "events": [
+        { "name": "GIF", "url": "https://en.wikipedia.org/wiki/GIF", "tip": "Graphics Interchange Format" },
+        { "name": "Perl", "url": "https://en.wikipedia.org/wiki/Perl", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1988",
+      "events": [
+        { "name": "IRC", "url": "https://en.wikipedia.org/wiki/Internet_Relay_Chat", "tip": "Internet Relay Chat facilitates communication in the form of text" },
+        { "name": "Transatlantic Fiber-Optics", "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable", "tip": "Undersea fiber-optics communication cable" },
+        { "name": "NEC UltraLite", "url": "https://en.wikipedia.org/wiki/NEC_UltraLite", "tip": "One of the 1st notebook style portable computers" },
+        { "name": "Morris worm", "url": "https://en.wikipedia.org/wiki/Morris_worm", "tip": "One of the 1st computer worms distributed via the Internet" },
+        { "name": "SMS Text Messaging", "url": "https://en.wikipedia.org/wiki/Text_messaging", "tip": "Began to be sent to mobile phones" }
+      ]
+    },
+    {
+      "time": "1989",
+      "events": [
+        { "name": "World Wide Web", "url": "https://en.wikipedia.org/wiki/World_Wide_Web", "tip": "invented by Tim Berners-Lee" },
+        { "name": "Apple Macintosh", "url": "https://en.wikipedia.org/wiki/Macintosh", "tip": "Desktop computer" }
+      ]
+    },
+
+    {
+      "time": "1990",
+      "events": [
+        { "name": "www Proposed", "url": "https://en.wikipedia.org/wiki/World_Wide_Web", "tip": "By Tim Berners-Lee while working at CERN" },
+        { "name": "PYTHON", "url": "https://en.wikipedia.org/wiki/Python_(programming_language)", "tip": "Programming language" }
+      ]
+    },
+    {
+      "time": "1991",
+      "events": [
+        { "name": "1st Website", "url": "https://en.wikipedia.org/wiki/Website", "tip": "Created by Tim Berners-Lee at CERN" },
+        { "name": "2G Networks", "url": "https://en.wikipedia.org/wiki/2G", "tip": "Second generation mobile network, SMS text messages" }
+      ]
+    },
+    {
+      "time": "1992",
+      "events": [
+        { "name": "1st Dial-Up", "url": "https://en.wikipedia.org/wiki/Dial-up_Internet_access", "tip": "Offered commercially by Sprint" },
+        { "name": "$250 Modems", "url": "https://en.wikipedia.org/wiki/Modem", "tip": "9600 Baud" },
+        { "name": "IBM ThinkPad", "url": "https://en.wikipedia.org/wiki/ThinkPad", "tip": "Business-oriented laptop computer" },
+        { "name": "NetApp", "url": "https://netapp.com", "tip": "Hybrid cloud data services and data management company" }
+      ]
+    },
+    {
+      "time": "1993",
+      "events": [
+        { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML", "tip": "Markup language used primarily by web browsers" },
+        { "name": "Mosaic Browser", "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)", "tip": "1st web browser created by the National Center for Supercomputing Applications NCSA" },
+        { "name": "Free Web", "url": "https://en.wikipedia.org/wiki/WorldWideWeb", "tip": "CERN published a statement that made World Wide Web technology available on a royalty free basis" },
+        { "name": "mp3", "url": "https://en.wikipedia.org/wiki/MP3", "tip": "invented by Tim Berners-Lee" },
+        { "name": "Yahoo", "url": "https://en.wikipedia.org/wiki/Yahoo!", "tip": "Email and web services provider" },
+        { "name": "Wired Magazine", "url": "https://www.wired.com/", "tip": "Still published and online at wired.com" }
+      ]
+    },
+    {
+      "time": "1994",
+      "events": [
+        { "name": "SSL", "url": "https://en.wikipedia.org/wiki/Transport_Layer_Security", "tip": "Secure Socket Layer" },
+        { "name": "Netscape", "url": "https://en.wikipedia.org/wiki/Netscape", "tip": "1st commercial web browser. Created by Marc Andreessen" },
+        { "name": "Yahoo!", "url": "https://en.wikipedia.org/wiki/Yahoo!", "tip": "Web services provider" },
+        { "name": "1st Ecomm Transaction", "url": "https://en.wikipedia.org/wiki/Online_shopping", "tip": "Sale of a Sting CD between two friends" },
+        { "name": "1st Banner Ad", "url": "https://en.wikipedia.org/wiki/Web_banner", "tip": "Ran by Wired magazine’s digital affiliate HotWired" },
+        { "name": "Dot-Com Bubble", "url": "https://en.wikipedia.org/wiki/Dot-com_bubble", "tip": "Historic period of excessive speculation" }
+      ]
+    },
+    {
+      "time": "1995",
+      "events": [
+        { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript", "tip": "Programming language used primarily by web browsers" },
+        { "name": "Java", "url": "https://en.wikipedia.org/wiki/Java_(programming_language)", "tip": "Programming language" },
+        { "name": "PHP", "url": "https://en.wikipedia.org/wiki/PHP", "tip": "Programming language" },
+        { "name": "Ruby", "url": "https://en.wikipedia.org/wiki/Ruby_(programming_language)", "tip": "Programming language" },
+        { "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B", "tip": "Programming language" },
+        { "name": "ColdFusion", "url": "https://en.wikipedia.org/wiki/Adobe_ColdFusion", "tip": "Programming language" },
+        { "name": "Internet Explorer", "url": "https://en.wikipedia.org/wiki/Internet_Explorer", "tip": "Web browser by Microsoft" },
+        { "name": "VocalTec", "url": "https://en.wikipedia.org/wiki/VocalTec", "tip": "1st commercial VoIP internet phone app" },
+        { "name": "Apache", "url": "https://en.wikipedia.org/wiki/Apache_HTTP_Server", "tip": "Free open-source cross-platform web server software" },
+        { "name": "Amazon", "url": "https://en.wikipedia.org/wiki/Amazon_(company)", "tip": "Largest online marketplace" },
+        { "name": "Ebay", "url": "https://en.wikipedia.org/wiki/EBay", "tip": "4th largest online marketplace" },
+        { "name": "CraigsList", "url": "https://en.wikipedia.org/wiki/Craigslist", "tip": "Online marketplace" }
+      ]
+    },
+    {
+      "time": "1996",
+      "events": [
+        { "name": "CSS", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets", "tip": "Style sheet language used primarily by web browsers" },
+        { "name": "Flash", "url": "https://en.wikipedia.org/wiki/Adobe_Flash", "tip": "Multimedia software platform by Adobe" },
+        { "name": "VBScript", "url": "https://en.wikipedia.org/wiki/VBScript", "tip": "Programming language" },
+        { "name": "ICQ", "url": "https://en.wikipedia.org/wiki/ICQ", "tip": "Cross-platform instant messaging client" },
+        { "name": "Hotmail", "url": "https://en.wikipedia.org/wiki/Outlook.com", "tip": "1st major web-based email provider" },
+        { "name": "Expedia", "url": "https://en.wikipedia.org/wiki/Expedia", "tip": "Online marketplace" },
+        { "name": "Booking.com", "url": "https://en.wikipedia.org/wiki/Booking.com", "tip": "Travel fare aggregator website" },
+        { "name": "Nintendo 64", "url": "https://en.wikipedia.org/wiki/Nintendo_64", "tip": "Gaming console" }
+      ]
+    },
+    {
+      "time": "1997",
+      "events": [
+        { "name": "JavaScript ES1", "url": "https://en.wikipedia.org/wiki/ECMAScript#ECMAScript,_4th_Edition", "tip": "First edition ECMAScript specification" },
+        { "name": "Google Search Engine", "url": "https://en.wikipedia.org/wiki/Google_Search", "tip": "92.62% market share as of June 2019" },
+        { "name": "Netflix", "url": "https://en.wikipedia.org/wiki/Netflix", "tip": "Online media services provider" },
+        { "name": "Rakuten", "url": "https://en.wikipedia.org/wiki/Rakuten", "tip": "5th largest online marketplace" },
+        { "name": "Palm Pilot", "url": "https://en.wikipedia.org/wiki/PalmPilot", "tip": "Portable digital assistant connected by RS-232 serial cable" },
+        { "name": ".io Domain Names", "url": "https://en.wikipedia.org/wiki/.io", "tip": "Levi Strauss & Co. registered the domain levi.io" },
+        { "name": "mp3 Players", "url": "https://en.wikipedia.org/wiki/MP3_player", "tip": "Popular by Christmas 1998" }
+      ]
+    },
+    {
+      "time": "1998",
+      "events": [
+        { "name": "JavaScript ES2", "url": "https://en.wikipedia.org/wiki/ECMAScript#ECMAScript,_4th_Edition", "tip": "Editorial changes" },
+        { "name": "PayPal", "url": "https://en.wikipedia.org/wiki/PayPal", "tip": "Online payments system" },
+        { "name": "JD.com", "url": "https://en.wikipedia.org/wiki/JD.com", "tip": "2nd largest online marketplace" }
+      ]
+    },
+    {
+      "time": "1999",
+      "events": [
+        { "name": "JavaScript ES3", "url": "https://en.wikipedia.org/wiki/ECMAScript#ECMAScript,_4th_Edition", "tip": "Added regular expressions" },
+        { "name": "Y2K Scare", "url": "https://en.wikipedia.org/wiki/Year_2000_problem", "tip": "Problems were anticipated, and arose, because many programs represented 4-digit years with 2 digits" },
+        { "name": "SourceForge", "url": "https://en.wikipedia.org/wiki/SourceForge", "tip": "Centralized online location to control and manage free and open-source software projects" },
+        { "name": "Alibaba", "url": "https://en.wikipedia.org/wiki/Alibaba_Group", "tip": "3rd largest online marketplace" },
+        { "name": "Salesforce", "url": "https://en.wikipedia.org/wiki/Salesforce.com", "tip": "Integrated CRM platform" },
+        { "name": "Blackberry", "url": "https://en.wikipedia.org/wiki/BlackBerry_Mobile", "tip": "Mobile devive manufacturer" },
+        { "name": "Blogger", "url": "https://en.wikipedia.org/wiki/Blogger_(service)", "tip": "Blog publishing service" },
+        { "name": "Napster", "url": "https://en.wikipedia.org/wiki/Napster", "tip": "Peer-to-peer digital audio file sharing" }
+      ]
+    },
+
+    {
+      "time": "2000",
+      "events": [
+        { "name": "C#", "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)", "tip": "Programming language" },
+        { "name": "Pandora", "url": "https://en.wikipedia.org/wiki/Pandora_Radio", "tip": "Online music streaming service" },
+        { "name": "Dot-Com Bust", "url": "https://en.wikipedia.org/wiki/Dot-com_bubble", "tip": "Many .com companies lost a huge amount of value or went bankrupt" }
+      ]
+    },
+    {
+      "time": "2001",
+      "events": [
+        { "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Wikipedia", "tip": "Online encyclopedia" },
+        { "name": "Maison De Ski", "url": "http://web.archive.org/web/20021018022149/http://www.maisondeski.com/index.html", "tip": "My 1st website, VB Script with a Microsoft Access database" }
+      ]
+    },
+    {
+      "time": "2002",
+      "events": [
+        { "name": "FireFox Browser", "url": "https://en.wikipedia.org/wiki/Firefox", "tip": "Mozilla launches it's first browser" },
+        { "name": "3G Networks", "url": "https://en.wikipedia.org/wiki/3G", "tip": "Third generation of wireless mobile telecommunications technology, 8Mbps" },
+        { "name": "Bit Torrent Protocol", "url": "https://en.wikipedia.org/wiki/BitTorrent", "tip": " Protocol for peer-to-peer file sharing" },
+        { "name": "iPod", "url": "https://en.wikipedia.org/wiki/", "tip": "Apple's 1st mp3 player" },
+        { "name": "LinkedIn", "url": "https://en.wikipedia.org/wiki/LinkedIn", "tip": "Social network for professionals" }
+      ]
+    },
+    {
+      "time": "2003",
+      "events": [
+        { "name": "Safari Browser", "url": "https://en.wikipedia.org/wiki/Safari_(web_browser)", "tip": "Web browser by Apple" },
+        { "name": "Skype", "url": "https://en.wikipedia.org/wiki/Skype", "tip": "Video chat and voice call provider" }
+      ]
+    },
+    {
+      "time": "2004",
+      "events": [
+        { "name": "Facebook", "url": "https://en.wikipedia.org/wiki/Facebook", "tip": "Social Network" },
+        { "name": "MySpace", "url": "https://en.wikipedia.org/wiki/Myspace", "tip": "Social Network" },
+        { "name": "Gmail", "url": "https://en.wikipedia.org/wiki/Gmail", "tip": "Web-based email provider" }
+      ]
+    },
+    {
+      "time": "2005",
+      "events": [
+        { "name": "Ruby on Rails", "url": "https://en.wikipedia.org/wiki/Ruby_on_Rails", "tip": "Programming language" },
+        { "name": "Ajax", "url": "https://en.wikipedia.org/wiki/Git/Ajax_(programming)", "tip": "Distributed version-control system for tracking software changes" },
+        { "name": "Git", "url": "https://en.wikipedia.org/wiki/Git", "tip": "Distributed version-control system for tracking software changes" },
+        { "name": "Youtube", "url": "https://en.wikipedia.org/wiki/YouTube", "tip": "Video sharing platform by Google" },
+        { "name": "Reddit", "url": "https://en.wikipedia.org/wiki/Reddit", "tip": "Social news aggregation" },
+        { "name": "1B Internet Users", "url": "https://www.internetworldstats.com/emarketing.htm", "tip": "15% of world population" }
+      ]
+    },
+    {
+      "time": "2006",
+      "events": [
+        { "name": "jQuery", "url": "https://en.wikipedia.org/wiki/JQuery", "tip": " JavaScript library that greatly simplified JavaScript programming" },
+        { "name": "AWS", "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services", "tip": "Cloud computing web services" },
+        { "name": "Twitter", "url": "https://en.wikipedia.org/wiki/Twitter", "tip": "News, social network" },
+        { "name": "Spotify", "url": "https://en.wikipedia.org/wiki/Spotify", "tip": "Streaming music service" },
+        { "name": "Macbook", "url": "https://en.wikipedia.org/wiki/MacBook", "tip": "Apple's 1st laptop computer" }
+      ]
+    },
+    {
+      "time": "2007",
+      "events": [
+        { "name": "Silverlight", "url": "https://en.wikipedia.org/wiki/Microsoft_Silverlight", "tip": "Framework for writing and running rich Internet applications by Microsoft" },
+        { "name": "iPhone", "url": "https://en.wikipedia.org/wiki/IPhone", "tip": "Apple's 1st mobile phone" },
+        { "name": "Dropbox", "url": "https://en.wikipedia.org/wiki/Dropbox_(service)", "tip": "Online file hosting service" }
+      ]
+    },
+    {
+      "time": "2008",
+      "events": [
+        { "name": "JavaScript ES4 Dead", "url": "https://auth0.com/blog/the-real-story-behind-es4/", "tip": "Decision made to scrap the over-ambitious specification change" },
+        { "name": "Chrome", "url": "https://en.wikipedia.org/wiki/Google_Chrome", "tip": "Google's 1st web browser" },
+        { "name": "Android", "url": "https://en.wikipedia.org/wiki/Android_(operating_system)", "tip": "Google's 1st mobile operating system" },
+        { "name": "Stack Overflow", "url": "https://en.wikipedia.org/wiki/Stack_Overflow", "tip": "Question and answer site for programmers" },
+        { "name": "GitHub", "url": "https://en.wikipedia.org/wiki/GitHub", "tip": "Online software version control using Git" },
+        { "name": "Airbnb", "url": "https://en.wikipedia.org/wiki/Airbnb", "tip": "Online lodging market" },
+        { "name": "Groupon", "url": "https://en.wikipedia.org/wiki/Groupon", "tip": "Online marketplace" }
+      ]
+    },
+    {
+      "time": "2009",
+      "events": [
+        { "name": "JavaScript ES5", "url": "https://en.wikipedia.org/wiki/ECMAScript#ECMAScript,_4th_Edition", "tip": "Added strict mode, JSON support" },
+        { "name": "Node JS", "url": "https://en.wikipedia.org/Node.js", "tip": "JavaScript runtime environment that executes JavaScript code outside of a browser" },
+        { "name": "Go", "url": "https://en.wikipedia.org/wiki/Go_(programming_language)", "tip": "Programming language" },
+        { "name": "MongoDB", "url": "https://en.wikipedia.org/wiki/MongoDB", "tip": "NoSQL database" },
+        { "name": "Android Tablets", "url": "https://en.wikipedia.org/wiki/Go_(programming_language)", "tip": "1st tablets running on Android operating system" },
+        { "name": "Uber", "url": "https://en.wikipedia.org/wiki/Uber", "tip": "Online ride hailing service" },
+        { "name": "BitCoin", "url": "https://en.wikipedia.org/wiki/Bitcoin", "tip": "Decentralized digital currency" },
+        { "name": "BrieBug", "url": "https://www.briebug.com/", "tip": "BrieBug provides best practice Angular development expertise" }
+      ]
+    },
+
+    {
+      "time": "2010",
+      "events": [
+        { "name": "Angular JS", "url": "https://en.wikipedia.org/wiki/AngularJS", "tip": "Frontend web development framework by Google" },
+        { "name": "Backbone JS", "url": "https://en.wikipedia.org/wiki/Backbone.js", "tip": "Frontend web development framework" },
+        { "name": "Cordova", "url": "https://en.wikipedia.org/wiki/Apache_Cordova", "tip": "Mobile application development framework" },
+        { "name": "iPad", "url": "https://en.wikipedia.org/wiki/IPad", "tip": "Apple's 1st tablet" },
+        { "name": "Nexus One", "url": "https://en.wikipedia.org/wiki/Nexus_One", "tip": "Google's 1st smartphone" },
+        { "name": "4G Networks", "url": "https://en.wikipedia.org/wiki/4G", "tip": "Fourth generation of broadband cellular network technology" }
+      ]
+    },
+    {
+      "time": "2011",
+      "events": [
+        { "name": "Ember JS", "url": "https://en.wikipedia.org/wiki/Ember.js", "tip": "Frontend web development framework" },
+        { "name": "Twitter Bootstrap", "url": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)", "tip": "Mobile first web development framework" },
+        { "name": "Code Bootcamps", "url": "https://en.wikipedia.org/wiki/Coding_bootcamp", "tip": "Code Academy, Dev Bootcamp, Hacker School and Galvanize" },
+        { "name": "1BTC = $1", "url": "https://en.wikipedia.org/wiki/Bitcoin", "tip": "$137 BTC is worth 1M today" },
+        { "name": "2B Internet Users", "url": "https://www.internetworldstats.com/emarketing.htm", "tip": "32% of world population" }
+      ]
+    },
+    {
+      "time": "2012",
+      "events": [
+        { "name": "TypeScript", "url": "https://en.wikipedia.org/wiki/TypeScript", "tip": "A superset of JavaScript created by Microsoft adding static typing to the language" },
+        { "name": "Lyft", "url": "https://en.wikipedia.org/wiki/Lyft", "tip": "Online ride hailing service" }
+      ]
+    },
+    {
+      "time": "2013",
+      "events": [
+        { "name": "React JS", "url": "https://en.wikipedia.org/wiki/React_(web_framework)", "tip": "Frontend web library by Facebook" },
+        { "name": "JSON", "url": "https://en.wikipedia.org/wiki/JSON", "tip": "Lightweight format for storing and transfering data" },
+        { "name": "Electron", "url": "https://en.wikipedia.org/wiki/Electron_(software_framework)", "tip": "allows for the development of desktopGUI applications using HTML, CSS and JavaScript" },
+        { "name": "Pixel Phone", "url": "https://en.wikipedia.org/wiki/Google_Pixel", "tip": "Google's next gen smartphones" }
+      ]
+    },
+    {
+      "time": "2014",
+      "events": [
+        { "name": "Angular 2 Announced", "url": "https://devchat.tv/adv-in-angular/016-aia-ng-1-3-and-2-0-with-brad-green-igor-minar-and-misko-hevery/", "tip": "Google announces re-write of Angular JS" },
+        { "name": "Vue JS", "url": "https://en.wikipedia.org/wiki/Vue.js", "tip": "Frontend web development framework" },
+        { "name": "3B Internet Users", "url": "https://www.internetworldstats.com/emarketing.htm", "tip": "42% of world population" }
+      ]
+    },
+    {
+      "time": "2015",
+      "events": [
+        { "name": "JavaScript ES6 (ES2015)", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2015", "tip": "Class declarations, ES6 Modules, const, promises" },
+        { "name": "Angular 2 Beta", "url": "https://en.wikipedia.org/wiki/" },
+        { "name": "GraphQL", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2015", "tip": "data query and manipulation language for APIs by Facebook" }
+      ]
+    },
+    {
+      "time": "2016",
+      "events": [
+        { "name": "JavaScript ES7 (ES2016)", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2016", "tip": "Block scoping, destructuring, async, await" },
+        { "name": "Angular 2 Released!", "url": "https://angular.io", "tip": "Modern Angular era begins" }
+      ]
+    },
+    {
+      "time": "2017",
+      "events": [
+        { "name": "JavaScript ES8 (ES2017)", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2017", "tip": "async/awaitconstructions, which work using generators and promises" },
+        { "name": "Angular 4", "url": "https://angular.io", "tip":"AoT compilation, Universal, Animations, Templates" },
+        { "name": "Angular 5", "url": "https://angular.io", "tip":"HttpClient, JSON default, Interceptors" },
+        { "name": "4B Internet Users", "url": "https://www.internetworldstats.com/emarketing.htm", "tip": "54% of world population" }
+      ]
+    },
+    {
+      "time": "2018",
+      "events": [
+        { "name": "JavaScript ES9 (ES2018)", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2018", "tip": "rest/spread operators, additions to RegExp" },
+        { "name": "Angular 6", "url": "https://angular.io", "tip": "ng update, ng add, workspaces" },
+        { "name": "Angular 7", "url": "https://angular.io", "tip": "Angular Material CDK" }
+      ]
+    },
+    {
+      "time": "2019",
+      "events": [
+        { "name": "JavaScript ES10 (ES2019)", "url": "https://en.wikipedia.org/wiki/ECMAScript#ES2019", "tip": "Array.prototype.flat, Array.prototype.flatMap, changes to Array.sort and Object.fromEntries" },
+        { "name": "Angular 8", "url": "https://angular.io", "tip": "Ivy, Bazel, router lazy-loading syntax" },
+        { "name": "Angular 9", "url": "https://angular.io", "tip": "Ivy compiler, selector-less Bindings, internationalization" },
+        { "name": "5G Networks", "url": "https://en.wikipedia.org/wiki/5G", "tip": "Verizon 1st to launch a 5G network and a smartphone that works on it" },
+        { "name": "4.5B Internet Users", "url": "https://www.internetworldstats.com/emarketing.htm", "tip": "59% of world population" }
+      ]
+    },
+
+    {
+      "time": "2020",
+      "events": [
+        { "name": "Angular Colorado", "url": "https://angularcolorado.com", "tip": "January 30, 2020 - one-day conference held in the Denver Broncos' Empower Field at Mile High Stadium" },
+        { "name": "NG Conf", "url": "https://www.ng-conf.org", "tip": "April 1st–April 3rd 2020 Salt Lake City, UT" }
+      ]
+    }
+
+
+
+  ]
+}
+
+

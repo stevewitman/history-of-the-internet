@@ -1,0 +1,97 @@
+.event {
+  cursor: pointer;
+  font-family: 'Saira', sans-serif;
+  letter-spacing: 1.5px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-size: 1.5em;
+  padding-bottom: 20px;
+  margin-left: 25px;
+}
+.event:hover {
+  color: yellow;
+  font-weight: 500;
+}
+
+/* Base styles for the element that has a tooltip */
+[data-tooltip],
+.tooltip {
+  position: relative;
+  cursor: pointer;
+}
+
+/* Base styles for the entire tooltip */
+[data-tooltip]:before,
+[data-tooltip]:after,
+.tooltip:before,
+.tooltip:after {
+  position: absolute;
+  visibility: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Show the entire tooltip on hover and focus */
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after,
+[data-tooltip]:focus:before,
+[data-tooltip]:focus:after,
+.tooltip:hover:before,
+.tooltip:hover:after,
+.tooltip:focus:before,
+.tooltip:focus:after {
+  visibility: visible;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+/* Base styles for the tooltip's directional arrow */
+.tooltip:before,
+[data-tooltip]:before {
+  z-index: 1001;
+  border: 6px solid transparent;
+  background: transparent;
+  content: "";
+}
+
+/* Base styles for the tooltip's content area */
+.tooltip:after,
+[data-tooltip]:after {
+  z-index: 1000;
+  padding: 12px;
+  width: 300px;
+  background-color: #24374b;
+  color: #FFF;
+  content: attr(data-tooltip);
+  line-height: 1.4;
+  border-radius: 10px;
+}
+
+/* Bottom */
+.tooltip-bottom:before,
+.tooltip-bottom:after {
+  top: 100%;
+  bottom: auto;
+  left: 25%;
+}
+
+.tooltip-bottom:before {
+  margin-top: -12px;
+  margin-left: 20px;
+  margin-bottom: 0;
+  border-top-color: transparent;
+  border-bottom-color: #24374b;
+}
+
+.tooltip-bottom:hover:before,
+.tooltip-bottom:hover:after,
+.tooltip-bottom:focus:before,
+.tooltip-bottom:focus:after {
+  -webkit-transform: translate(-20px,5px);
+  -moz-transform:    translate(-20px,5px);
+  transform:         translate(-20px,5px);
+}
+
